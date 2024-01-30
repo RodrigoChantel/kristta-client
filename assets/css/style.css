@@ -1,0 +1,131 @@
+body, html{
+  height: 100vh !important;
+  max-height: 100vh !important;
+  max-width: auto; 
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica", Sans-Serif;
+  visibility: visible;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#geral{
+  height: 100% !important;
+}
+.bg-kristta{
+  background-color: #000028;
+}
+.hover-nav{
+  border-bottom: solid !important;
+}
+.hover-nav:hover{
+  border: 50px !important;
+  border-top: 50px !important;
+  border-color: black !important;
+}
+
+.footer-btn{
+  color: #ffffff !important;
+}
+.footer-btn:hover{
+  color: #128C7E !important;
+}
+.section-service{
+  background-color: #000028;
+}
+#banner {
+  width: 100%;
+  background-image: url(../images/slide/00012.webp);
+  height: 95vh !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-attachment: fixed;
+  background-color: #03072c;
+}
+#clientHover:hover{
+  width: 35vh !important;
+}
+
+#clientImgGlasourd{
+  width: 35vh;
+  background-image: url(../images/clients/glasourd2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+#clientImgGlasourd:hover{
+  width: 35vh;
+  background-image: url(../images/clients/glasourd.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+
+#clientImgPegadas{
+  width: 35vh;
+  background-image: url(../images/clients/pegadascinza.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+#clientImgPegadas:hover{
+  width: 35vh;
+  background-image: url(../images/clients/pegadas.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+
+/* Zoom em imagem */
+.img-zoom{
+  overflow: hidden;
+}
+
+.img-zoom img{
+  width: 100%;
+  height: 100%;
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+}
+
+.img-zoom:hover img{
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+/* FIM Zoom em imagem */
+
+#hover-link:hover{
+  border-color: #4d4dff !important;
+  color: #4d4dff !important;
+  border-width: 1px;
+  border-style: solid; 
+}
+
+.section-bg-about{
+  background-image: url(../images/slide/about.svg);
+  height: 100% !important;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: #ffffff;
+}
+
+.notscrollnumber {
+  scrollbar-width: none; /* Para navegadores Firefox */
+  -ms-overflow-style: none; /* Para navegadores IE e Edge */
+}
+.notscrollnumber::-webkit-outer-spin-button,
+.notscrollnumber::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

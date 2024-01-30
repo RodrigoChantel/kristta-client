@@ -1,0 +1,11 @@
+V-1.0.8
+Alterações nos seguintes arquivos 05/07/2023{
+
+    [X] - views/request.php
+    [X] - views/geral.php
+    [X] - assets/js/script.js
+
+    Adição da animação ao criar nova requisição com atraso programado para 3 segundos.
+}
+
+V-1.0.9

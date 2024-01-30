@@ -1,0 +1,80 @@
+body, html{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	text-decoration:none;
+	height: 100vh !important;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.bg-myedit{
+	background-image:linear-gradient(to right, #642EFE, #03afff);
+}
+
+.bg-myedit2{
+	background-image:linear-gradient(to right, #000028, #4d4dff);
+}
+
+.teste:hover{
+	border-radius:none;
+	background-color:#FFF6F4;
+}
+
+.overflow-height-only{
+	overflow-x: hidden;
+}
+.mineras{
+	display:flex;
+	position: absolute;
+	z-index: 0;
+	top: 0%;
+	left: 0%;
+}
+.althbtn{
+	z-index:100;
+	width:60px;
+}
+
+#editarcadastro{
+	display:none;
+}
+
+#archives{
+	display:none;
+}
+
+#submitresumo{
+	background-color: #0b5ed7;
+	color: white;
+}
+
+#compName {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 150px; /* Largura máxima para exibir 15 caracteres */
+}
+
+/* Estilos para o aviso flutuante */
+.floating-notice {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #fff;
+	padding: 20px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	z-index: 9999;
+}
+
+#cookie-aviso {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 0;
+	background-color: #f8f9fa;
+	z-index: 9999;
+  }

@@ -26,18 +26,23 @@ Importe a database kristta_old.sql para o mysql e edite o arquivo mode/connectio
 Na tabela 'users' inclua ao menos um usuário (A senha utiliza criptografia hash)
 
 Prints login:
-![login](https://github.com/RodrigoChantel/kristta-Back-end-v1.0-rea-do-Cliente-PHP/assets/87919246/82e65b1a-103a-4fc8-b9e4-25af96a7e68d)
+![login](https://github.com/RodrigoChantel/kristta-client/assets/87919246/e24b1b31-ee6c-42e2-9566-5aa53cd20b50)
+
 
 Prints index:
-![index](https://github.com/RodrigoChantel/kristta-Back-end-v1.0-rea-do-Cliente-PHP/assets/87919246/9a305645-9162-41c6-8d56-451cb6062ce4)
+![index](https://github.com/RodrigoChantel/kristta-client/assets/87919246/73a06d9b-2135-4a1b-a229-bc8e07d23fdb)
+
 
 Prints Criar solicitação:
-![create request](https://github.com/RodrigoChantel/kristta-Back-end-v1.0-rea-do-Cliente-PHP/assets/87919246/ce3b2726-0f8e-4147-88d3-c014c41ef614)
+![create request](https://github.com/RodrigoChantel/kristta-client/assets/87919246/97216252-e444-47db-b750-361a1fdb04bf)
+
 
 Prints Faturas:
-![invoices](https://github.com/RodrigoChantel/kristta-Back-end-v1.0-rea-do-Cliente-PHP/assets/87919246/8b17f267-4dce-4c2a-89e1-ceb80b52b964)
+![invoices](https://github.com/RodrigoChantel/kristta-client/assets/87919246/76d10aca-728b-47d5-ba02-ad7f05cb42c8)
 
-Prints login:
-![edit-profile](https://github.com/RodrigoChantel/kristta-Back-end-v1.0-rea-do-Cliente-PHP/assets/87919246/b835ae3f-4441-4c84-9910-30edc5d76862)
+
+Prints Editar perfil:
+![edit-profile](https://github.com/RodrigoChantel/kristta-client/assets/87919246/68e92f86-4f46-4cbb-8a24-84977d1429c2)
+
 
 IMPORTANTE: AS IMAGENS DE MARCAS PRESENTES NO PROJETO NÃO SÃO PARA USO COMERCIAL, POIS TRATAM-SE DE CLIENTES REAIS.

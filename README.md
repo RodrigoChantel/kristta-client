@@ -30,7 +30,7 @@ Prints login:
 
 
 Prints index:
-![index](https://github.com/RodrigoChantel/kristta-client/assets/87919246/73a06d9b-2135-4a1b-a229-bc8e07d23fdb)
+![index](https://github.com/RodrigoChantel/kristta-client/assets/87919246/863b0e50-3349-4690-ad11-cb9ac79b5f93)
 
 
 Prints Criar solicitação:
